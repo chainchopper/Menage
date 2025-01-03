@@ -1,0 +1,29 @@
+/* Menage - Fanalogy's NFT Ecosystem */
+:root {
+  --fanalogy-primary: #4a90e2;
+  --fanalogy-secondary: #50e3c2;
+  --fanalogy-accent: #f5a623;
+}
+
+.menage-header {
+  background: var(--fanalogy-primary);
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+.menage-header .branding h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+
+.menage-header .tagline {
+  font-style: italic;
+  margin: 0.5rem 0;
+}
+
+.menage-header .copyright {
+  font-size: 0.8rem;
+  opacity: 0.8;
+  margin: 1rem 0;
+}

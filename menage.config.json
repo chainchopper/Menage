@@ -1,0 +1,22 @@
+{
+  "project": {
+    "name": "Menage",
+    "version": "1.0.0",
+    "author": "ProffX",
+    "company": "Fanalogy",
+    "copyright": "© 2023 Fanalogy",
+    "license": "MIT"
+  },
+  "blockchain": {
+    "networks": ["ethereum", "polygon"],
+    "defaultNetwork": "polygon"
+  },
+  "ai": {
+    "engine": "MenageAI",
+    "version": "2.3.1"
+  },
+  "security": {
+    "encryption": "AES-256",
+    "authentication": "JWT"
+  }
+}
